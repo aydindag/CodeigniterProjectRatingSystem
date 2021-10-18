@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\controllers",
+    "\\application\\controllers\\Akademisyen",
+    "\\application\\models",
+    "\\application\\views",
+    "\\application\\views\\akademisyen",
+    "\\application\\views\\akademisyen\\mobil"
+  ],
+  "SelectedNode": "\\application\\models\\Akdmodel.php",
+  "PreviewInSolutionExplorer": false
+}
