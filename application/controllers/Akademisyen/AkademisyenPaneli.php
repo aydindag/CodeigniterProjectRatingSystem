@@ -22,7 +22,7 @@ class AkademisyenPaneli extends CI_Controller {
             redirect('Yonetim/errorpage');
         }
         else{ //logtut?
-            redirect('Yonetim/errorpage');
+
         }
     }
     public function index()
