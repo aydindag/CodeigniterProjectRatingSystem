@@ -189,7 +189,7 @@ class yonetim extends CI_Controller
     public function recaptcha($str='')
     {
         $google_url="https://www.google.com/recaptcha/api/siteverify";
-        $secret='6Le7iAAVAAAAAM-uw5A9UFTuyvCsI6eNczx5MmN2';
+        $secret='';
         $ip=$_SERVER['REMOTE_ADDR'];
         $url=$google_url."?secret=".$secret."&response=".$str."&remoteip=".$ip;
         $curl = curl_init();
